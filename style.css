@@ -1,0 +1,12 @@
+body{
+    background: gray;
+         }
+ .content{
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background: white;
+}
+ .myphoto {
+    text-align: center;
+        
