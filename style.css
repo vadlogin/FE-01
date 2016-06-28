@@ -1,7 +1,7 @@
-body{
+ body {
     background: gray;
-         }
- .content{
+}
+ .content {
     width: 500px;
     margin: 0 auto;
     padding: 20px;
@@ -9,4 +9,11 @@ body{
 }
  .myphoto {
     text-align: center;
-        
+}
+  .line {
+    border-top: 1px solid black; /* Линия сверху текста */
+    border-bottom: 1px solid black; /* Линия снизу текста */
+}
+  .linetop {
+    border-top: 1px solid black; /* Линия сверху текста */
+}
